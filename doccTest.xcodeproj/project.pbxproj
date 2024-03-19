@@ -13,6 +13,7 @@
 		FF4FF45F2BA8EE7D00B829DC /* Base in Resources */ = {isa = PBXBuildFile; fileRef = FF4FF45E2BA8EE7D00B829DC /* Base */; };
 		FF4FF4612BA8EE7E00B829DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF4FF4602BA8EE7E00B829DC /* Assets.xcassets */; };
 		FF4FF4642BA8EE7E00B829DC /* Base in Resources */ = {isa = PBXBuildFile; fileRef = FF4FF4632BA8EE7E00B829DC /* Base */; };
+		FF4FF46C2BA8F36900B829DC /* ExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4FF46B2BA8F36900B829DC /* ExampleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FF4FF4602BA8EE7E00B829DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF4FF4632BA8EE7E00B829DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FF4FF4652BA8EE7E00B829DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF4FF46B2BA8F36900B829DC /* ExampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				FF4FF4572BA8EE7D00B829DC /* AppDelegate.swift */,
 				FF4FF4592BA8EE7D00B829DC /* SceneDelegate.swift */,
+				FF4FF46B2BA8F36900B829DC /* ExampleViewController.swift */,
 				FF4FF45B2BA8EE7D00B829DC /* ViewController.swift */,
 				FF4FF45D2BA8EE7D00B829DC /* Main.storyboard */,
 				FF4FF4602BA8EE7E00B829DC /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF4FF45C2BA8EE7D00B829DC /* ViewController.swift in Sources */,
+				FF4FF46C2BA8F36900B829DC /* ExampleViewController.swift in Sources */,
 				FF4FF4582BA8EE7D00B829DC /* AppDelegate.swift in Sources */,
 				FF4FF45A2BA8EE7D00B829DC /* SceneDelegate.swift in Sources */,
 			);
