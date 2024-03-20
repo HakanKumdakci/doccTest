@@ -10,4 +10,4 @@ xcrun docc process-archive transform-for-static-hosting \
     --output-path ".docs" \
     --hosting-base-path "doccTest" # add with your repo name later
     
-echo '<script>window.location.href += "/documentation/doccTest"</script>' > .docs/index.html
+echo '<script>window.location.href += "/documentation/docctest"</script>' > .docs/index.html
