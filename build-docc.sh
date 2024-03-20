@@ -1,4 +1,4 @@
-##!/bin/sh
+#!/bin/sh
 
 xcrun xcodebuild docbuild \
     -scheme doccTest \
@@ -8,6 +8,4 @@ xcrun xcodebuild docbuild \
 xcrun docc process-archive transform-for-static-hosting \
     "$PWD/.derivedData/Build/Products/Debug-iphonesimulator/doccTest.doccarchive" \
     --output-path ".docs" \
-    --hosting-base-path "https://github.com/HakanKumdakci/DoccWithGithubActions"
-
-echo '<script>window.location.href += "documentation/doccTest"</script>' > .docs/index.html
+    --hosting-base-path "/DoccWithGithubActions"
