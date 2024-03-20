@@ -1,4 +1,4 @@
-#!/bin/sh
+##!/bin/sh
 
 xcrun xcodebuild docbuild \
     -scheme doccTest \
