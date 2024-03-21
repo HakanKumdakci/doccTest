@@ -1,1 +1,1 @@
-[Here is the docc]([URL](https://hakankumdakci.github.io/doccTest/)https://hakankumdakci.github.io/doccTest/)
+[Here is the docc](https://hakankumdakci.github.io/doccTest/)
