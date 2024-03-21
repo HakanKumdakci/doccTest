@@ -1,4 +1,7 @@
-##!/bin/sh
+#!/bin/sh
+
+# Delete the derivedData directory first
+rm -rf "$PWD/.derivedData"
 
 xcrun xcodebuild docbuild \
     -scheme doccTest \

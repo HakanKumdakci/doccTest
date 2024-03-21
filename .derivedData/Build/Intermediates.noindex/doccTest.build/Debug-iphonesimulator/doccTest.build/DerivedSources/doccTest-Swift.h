@@ -316,7 +316,7 @@ SWIFT_CLASS("_TtC8doccTest11AppDelegate")
 @class NSBundle;
 @class NSCoder;
 
-/// A <code>ViewController</code> that demonstrates various types of comments including documentation comments, inline comments, and block comments.
+/// A <code>ViewController</code> that demonstrates various types of comments including documentation comments, inline comments, and block comments. test
 /// This class is responsible for managing the user interface of a simple application that showcases text display and a button action.
 /// author:
 /// Your Name
@@ -684,7 +684,7 @@ SWIFT_CLASS("_TtC8doccTest11AppDelegate")
 @class NSBundle;
 @class NSCoder;
 
-/// A <code>ViewController</code> that demonstrates various types of comments including documentation comments, inline comments, and block comments.
+/// A <code>ViewController</code> that demonstrates various types of comments including documentation comments, inline comments, and block comments. test
 /// This class is responsible for managing the user interface of a simple application that showcases text display and a button action.
 /// author:
 /// Your Name

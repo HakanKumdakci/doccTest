@@ -9,7 +9,7 @@ import Foundation
 import UIKit
 
 /**
- A `ViewController` that demonstrates various types of comments including documentation comments, inline comments, and block comments. dwwdawfaw
+ A `ViewController` that demonstrates various types of comments including documentation comments, inline comments, and block comments. test
 
  This class is responsible for managing the user interface of a simple application that showcases text display and a button action.
 
@@ -29,7 +29,7 @@ class ExampleViewController: UIViewController {
     /**
      Called after the controller's view is loaded into memory.
      
-     It's responsible for initial setup of the UI components and any necessary configuration that needs to be done right after the view loads. test
+     It's responsible for initial setup of the UI components and any necessary configuration that needs to be done right after the view loads.
      */
     override func viewDidLoad() {
         super.viewDidLoad()
