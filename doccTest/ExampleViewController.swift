@@ -29,7 +29,7 @@ class ExampleViewController: UIViewController {
     /**
      Called after the controller's view is loaded into memory.
      
-     It's responsible for initial setup of the UI components and any necessary configuration that needs to be done right after the view loads.
+     It's responsible for initial setup of the UI components and any necessary configuration that needs to be done right after the view loads. test
      */
     override func viewDidLoad() {
         super.viewDidLoad()
