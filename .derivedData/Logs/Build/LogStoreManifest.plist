@@ -6,6 +6,48 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>55A2EAF0-5919-4A08-BDC7-FEB3DC5F57D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55A2EAF0-5919-4A08-BDC7-FEB3DC5F57D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>doccTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>doccTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project doccTest with scheme doccTest</string>
+			<key>timeStartedRecording</key>
+			<real>733148837.17628002</real>
+			<key>timeStoppedRecording</key>
+			<real>733148844.44474304</real>
+			<key>title</key>
+			<string>Building project doccTest with scheme doccTest</string>
+			<key>uniqueIdentifier</key>
+			<string>55A2EAF0-5919-4A08-BDC7-FEB3DC5F57D2</string>
+		</dict>
 		<key>B424CAF6-CF37-4884-AD1D-69CEB576C526</key>
 		<dict>
 			<key>className</key>

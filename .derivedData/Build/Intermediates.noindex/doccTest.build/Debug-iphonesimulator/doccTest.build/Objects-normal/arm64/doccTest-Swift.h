@@ -324,6 +324,7 @@ SWIFT_CLASS("_TtC8doccTest21ExampleViewController")
 @interface ExampleViewController : UIViewController
 /// Called after the controller’s view is loaded into memory.
 /// It’s responsible for initial setup of the UI components and any necessary configuration that needs to be done right after the view loads.
+/// <img src="testImg" alt="Alt text"/>
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
