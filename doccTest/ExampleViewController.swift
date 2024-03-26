@@ -55,7 +55,7 @@ class ExampleViewController: UIViewController {
     ///
     /// - Returns: The sloth's energy level after eating.
     ///
-    /// - Throws: `SlothError.tooMuchFood` if the quantity is more than 100.
+    /// - Throws: `SlothError.tooMuchFood` if the quantity is more than 100. Something updated
     func testFunction() {
         
     }
