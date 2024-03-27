@@ -9,7 +9,7 @@ import Foundation
 import UIKit
 
 /**
- A `ViewController` that demonstrates various types of comments including documentation comments, inline comments, and block comments. test
+ A `ViewController` that demonstrates various types of comments including documentation comments, inline comments, and block comments. normal
 
  This class is responsible for managing the user interface of a simple application that showcases text display and a button action.
 
