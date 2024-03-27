@@ -48,7 +48,7 @@
 			<key>uniqueIdentifier</key>
 			<string>55A2EAF0-5919-4A08-BDC7-FEB3DC5F57D2</string>
 		</dict>
-		<key>B424CAF6-CF37-4884-AD1D-69CEB576C526</key>
+		<key>8DCDC4D5-AFC2-4338-8D9B-4F69FB192B48</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -57,7 +57,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B424CAF6-CF37-4884-AD1D-69CEB576C526.xcactivitylog</string>
+			<string>8DCDC4D5-AFC2-4338-8D9B-4F69FB192B48.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -82,13 +82,13 @@
 			<key>signature</key>
 			<string>Building project doccTest with scheme doccTest</string>
 			<key>timeStartedRecording</key>
-			<real>733147646.75288904</real>
+			<real>733151936.65299404</real>
 			<key>timeStoppedRecording</key>
-			<real>733147657.09798503</real>
+			<real>733151942.52799404</real>
 			<key>title</key>
 			<string>Building project doccTest with scheme doccTest</string>
 			<key>uniqueIdentifier</key>
-			<string>B424CAF6-CF37-4884-AD1D-69CEB576C526</string>
+			<string>8DCDC4D5-AFC2-4338-8D9B-4F69FB192B48</string>
 		</dict>
 	</dict>
 </dict>
